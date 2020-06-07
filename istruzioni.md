@@ -1,0 +1,1 @@
+Le chiamate al server sono gestite tramite localhost alla porta 8888, pertanto se si utilizza un server locale ad una porta diversa è necessario cambiare l'URL della chiamata fetch in base alla porta utilizzata.
